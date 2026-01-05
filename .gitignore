@@ -1,0 +1,27 @@
+# Ignore draft folder/file
+draft
+draft/
+
+# C build artifacts
+*.o
+*.out
+a.out
+*.exe
+*.obj
+*.dll
+*.dSYM/
+
+# Executables
+mySA
+mySA.exe
+
+# Editor / OS junk
+.DS_Store
+Thumbs.db
+.vscode/
+
+# Temporary files
+*.tmp
+*.log
+
+test44.c
